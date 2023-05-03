@@ -1,5 +1,7 @@
 # 旅遊服務平台
 
+![image]("./public/images/產品照片.png")
+
 ## 使用技術
 
     React.js + Typescript
