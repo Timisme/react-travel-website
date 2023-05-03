@@ -1,6 +1,8 @@
 # 旅遊服務平台
 
-![image]("./public/images/產品照片.png")
+![image](/public/images/%E7%94%A2%E5%93%81%E7%85%A7%E7%89%87.png)
+
+![image](/public/images/%E7%94%A2%E5%93%81%E7%85%A7%E7%89%872.png)
 
 ## 使用技術
 
