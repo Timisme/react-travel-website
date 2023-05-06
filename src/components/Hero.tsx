@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="hero-container">
       <video src="/videos/video-1.mp4" autoPlay loop muted></video>
       <h1>冒險即將展開</h1>
-      <p>你還在等待嗎？</p>
+      <p>選擇下列的旅遊服務，開始你的旅程</p>
       <div className="hero-btns">
         <Button
           //   className="btns"

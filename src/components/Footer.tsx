@@ -49,11 +49,11 @@ function Footer() {
         <div className="social-media-wrap">
           <div className="footer-logo">
             <Link to="/" className="social-logo">
-              TRVL
+              TRAVEL
               <i className="fab fa-typo3" />
             </Link>
           </div>
-          <small className="website-rights">TRVL © 2023</small>
+          <small className="website-rights">TRAVEL © 2023</small>
           <div className="social-icons">
             <Link
               className="social-icon-link facebook"
